@@ -6,7 +6,7 @@ describe('', function() {
   beforeEach(module(''));
 
   it('', function() {
-
+    expect();
   });
 
 });
